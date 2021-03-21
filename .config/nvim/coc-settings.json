@@ -1,0 +1,29 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "java",
+        "css",
+        "markdown",
+        "javascript",
+        "graphql",
+        "html",
+        "xml",
+        "yaml",
+        "json",
+        "python",
+        "fxml",
+        "dart",
+        "xml"
+    ],
+    //java 
+    "java.import.exclusions": true,
+    "java.completion.importOrder": true,
+    "java.import.maven.enabled": true,
+    "java.import.gradle.enabled": true,
+    //"java.format.onType.enabled": true,
+    "clangd.semanticHighlighting": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "flutter.lsp.initialization.closingLabels": true,
+    "clangd.path": "/home/ex4mple/.config/coc/extensions/coc-clangd-data/install/10.0.0/clangd_10.0.0/bin/clangd",
+    "coc.preferences.extensionUpdateCheck": "daily"
+}
